@@ -13,5 +13,10 @@
   "background": {
     "scripts": ["background.js"],
     "persistent": true
+  },
+  "icons": {
+    "16": "icons/favicon16.ico",
+    "24": "icons/favicon24.ico",
+    "32": "icons/favicon32.ico"
   }
 }
