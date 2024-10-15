@@ -1,0 +1,17 @@
+// manifest.json
+{
+  "manifest_version": 2,
+  "name": "MDBG MP3 Monitor",
+  "version": "1.0",
+  "description": "Monitors for MP3 files on MDBG and prompts once for download, preserving original filenames",
+  "permissions": [
+    "https://www.mdbg.net/*",
+    "webRequest",
+    "webRequestBlocking",
+    "downloads"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}
