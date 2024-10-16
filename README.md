@@ -21,7 +21,8 @@ MDBG MP3 Monitor is a browser extension that helps you easily download MP3 files
 4. Click "Load unpacked" and select the `Brave` folder from this project
 
 ### Firefox
-
+- You Can find it on here `https://addons.mozilla.org/en-US/firefox/addon/mdbg-audio-download/`
+OR
 1. Download or clone this repository
 2. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`
 3. Click "Load Temporary Add-on" and select the `manifest.json` file from the `firefox` folder
